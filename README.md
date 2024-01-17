@@ -36,11 +36,11 @@ Legend
 | Date        | Week and Topic                | Speaker      | Description  |
 |-------------|-------------------------------|--------------|--------------|
 | 🔜 Jan 18th   | [Week 1: Welcome to the Cloud Computing Club](./Week%201)   | Club Leaders          | **Presentation Section:**<br>- Brief presentation on the UML Cloud Computing Club and introduction to who we are and what we do.<br>**Hands-On Section:**<br>- Work on UniPath.io |
-| 🔜 Jan 25th   | [Week 2: Guest Speaker - Prof. Johannes Weis](./Week%202)   | [Dr. Johannes Weis](https://www.uml.edu/sciences/computer-science/people/weis-johannes.aspx)          | **Presentation Section:**<br>- TBD<br>**Hands-On Section:**<br>- TBD |
+| 🔜 Jan 25th   | [Week 2: Guest Speaker](./Week%202)   | [Dr. Johannes Weis](https://www.uml.edu/sciences/computer-science/people/weis-johannes.aspx)          | **Presentation Section:**<br>- TBD<br>**Hands-On Section:**<br>- TBD |
 | 🔄 Feb 1st    | [Week 3: Topic](./Week%203)   | TBA          | **Presentation Section:**<br>- TBD<br>**Hands-On Section:**<br>- TBD |
-| 🔄 Feb 8th    | [Week 4: Topic](./Week%204)   | TBA          | **Presentation Section:**<br>- TBD<br>**Hands-On Section:**<br>- TBD |
-| 🔄 Feb 15th   | [Week 5: Topic](./Week%205)   | TBA          | **Presentation Section:**<br>- TBD<br>**Hands-On Section:**<br>- TBD |
-| 🔄 Feb 22nd   | [Week 6: Topic](./Week%206)   | TBA          | **Presentation Section:**<br>- TBD<br>**Hands-On Section:**<br>- TBD |
+| 🔜 Feb 8th    | [Week 4: Guest Speaker - Intro to Docker & Containerization ](./Week%204)   | Matthew Harper          | **Presentation Section:**<br>- TBD<br>**Hands-On Section:**<br>- TBD |
+| 🔜 Feb 15th   | [Week 5: Guest Speaker](./Week%205)   | Andrew A.          | **Presentation Section:**<br>- TBD<br>**Hands-On Section:**<br>- TBD |
+| 🔜 Feb 22nd   | [Week 6: Guest Speaker](./Week%206)   | Andrew A.          | **Presentation Section:**<br>- TBD<br>**Hands-On Section:**<br>- TBD |
 | 🔄 Feb 29th   | [Week 7: Topic](./Week%207)   | TBA          | **Presentation Section:**<br>- TBD<br>**Hands-On Section:**<br>- TBD |
 | ❌ Mar 7th    | [Week 8: No Meeting - Holiday](./Week%208)  | N/A          | No meeting due to holiday. |
 | 🔄 Mar 14th   | [Week 9: Topic](./Week%209)   | TBA          | **Presentation Section:**<br>- TBD<br>**Hands-On Section:**<br>- TBD |
