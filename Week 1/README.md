@@ -1,7 +1,7 @@
 # Week 1: Welcome to the Cloud Computing Club
 
 <p align="center">
-  <img width="500" height="100%" src="https://www.computersciencedegreehub.com/wp-content/uploads/2022/06/cloud-computing.jpg">
+  <img width="800" height="100%" src="https://www.computersciencedegreehub.com/wp-content/uploads/2022/06/cloud-computing.jpg">
 </p>
 
 ## Overview
