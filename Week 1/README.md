@@ -18,6 +18,7 @@ Welcome to the first week of the UMass Lowell Cloud Computing Club for Spring 20
 - **Introduction to UML Cloud Computing Club**
   - Brief presentation about our club, our goals, and what we aim to achieve this semester.
   - Get to know the club leaders and members.
+  - [Cloud Computing In 6 Minutes | What Is Cloud Computing? | Cloud Computing Explained](https://www.youtube.com/watch?v=M988_fsOSWo)
   - [What Makes Cloud Computing a Great Career Choice?](https://www.youtube.com/watch?v=QsBI0zQJ8u4)
   - [What Does a Cloud Engineer ACTUALLY Do?](https://www.youtube.com/watch?v=fzqJV7ndA3I)
   - Example of how you can move into different fields using a Cloud Computing background: [Why I Switched From Cloud to Software Engineering](https://www.youtube.com/watch?v=fzqJV7ndA3I)
