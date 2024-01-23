@@ -35,7 +35,7 @@ Legend
 
 | Date        | Week and Topic                | Speaker      | Description  |
 |-------------|-------------------------------|--------------|--------------|
-| 🟢 Jan 18th   | [Week 1: Welcome to the Cloud Computing Club](./Week%201)   | Club Leaders          | **Presentation Section:**<br>- Brief presentation on the UML Cloud Computing Club and introduction to who we are and what we do.<br>**Hands-On Section:**<br>- Work on UniPath.io |
+| 🔵 Jan 18th   | [Week 1: Welcome to the Cloud Computing Club](./Week%201)   | Club Leaders          | **Presentation Section:**<br>- Brief presentation on the UML Cloud Computing Club and introduction to who we are and what we do.<br>**Hands-On Section:**<br>- Work on UniPath.io |
 | 🟢 Jan 25th   | [Week 2: Guest Speaker](./Week%202)   | [Dr. Johannes Weis](https://www.uml.edu/sciences/computer-science/people/weis-johannes.aspx)          | **Presentation Section:**<br>- TBD<br>**Hands-On Section:**<br>- TBD |
 | 🟡 Feb 1st    | [Week 3: Topic TBA](./Week%203)   | TBA          | **Presentation Section:**<br>- TBD<br>**Hands-On Section:**<br>- TBD |
 | 🟢 Feb 8th    | [Week 4: Guest Speaker - Intro to Docker & Containerization ](./Week%204)   | Matthew Harper          | **Presentation Section:**<br>- TBD<br>**Hands-On Section:**<br>- TBD |
