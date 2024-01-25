@@ -5,15 +5,17 @@
 ### Date and Time
 - **Date:** January 25th
 - **Time:** 6:30pm - 9:30pm
-
-### Location
-- Details will be announced on our [Discord server](https://discord.gg/WC2NdqYtDt).
+- **Location**: Details will be announced on our [Discord server](https://discord.gg/WC2NdqYtDt).
 
 ## Speaker Details
 
 - **Speaker:** Dr. Johannes Weis
 - **Profile:** [Dr. Johannes Weis](https://www.uml.edu/sciences/computer-science/people/weis-johannes.aspx)
 - **Topic:** To be announced (TBA)
+
+## Resources
+
+Slides: [Cloud_Computing__Club_Meeting_012524_intro.pdf](./Cloud_Computing__Club_Meeting_012524_intro.pdf)
 
 ## Agenda
 
