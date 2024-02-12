@@ -38,18 +38,19 @@ Legend
 | 🔵 Jan 18th   | [Week 1: Welcome to the Cloud Computing Club](./Week%201)   | Club Leaders          | **Presentation Section:**<br>- Brief presentation on the UML Cloud Computing Club and introduction to who we are and what we do.<br>**Hands-On Section:**<br>- Work on UniPath.io |
 | 🔵 Jan 25th   | [Week 2: Guest Speaker](./Week%202)   | [Dr. Johannes Weis](https://www.uml.edu/sciences/computer-science/people/weis-johannes.aspx)          | **Presentation Section:**<br>- TBD<br>**Hands-On Section:**<br>- Work on UniPath.io |
 | 🔵 Feb 1st    | [Week 3: Guest Speaker - Co-Op Program Overview and Internships Open Q&A](./Week%203)   | [Anthony Terravecchia](https://linkedin.com/in/anthony-terravecchia)          | **Presentation Section:**<br>- We will have a speaker from the Career & Co-op Center at UMass Lowell give us an informative session with an overview of the Co-Op Program and answer any questions regarding internships.<br>**Hands-On Section:**<br>- Work on UniPath.io |
-| 🟢 Feb 8th    | [Week 4: Guest Speaker - Intro to Docker & Containerization ](./Week%204)   | Matthew Harper          | **Presentation Section:**<br>- TBD<br>**Hands-On Section:**<br>- TBD |
-| 🟢 Feb 15th   | [Week 5: Guest Speaker](./Week%205)   | Andrew A.          | **Presentation Section:**<br>- TBD<br>**Hands-On Section:**<br>- TBD |
-| 🟢 Feb 22nd   | [Week 6: Guest Speaker](./Week%206)   | Andrew A.          | **Presentation Section:**<br>- TBD<br>**Hands-On Section:**<br>- TBD |
-| 🟡 Feb 29th   | [Week 7: Topic TBA](./Week%207)   | TBA          | **Presentation Section:**<br>- TBD<br>**Hands-On Section:**<br>- TBD |
+| 🔵 Feb 8th    | [Week 4: Intro to Docker & Containerization](./Week%204)   | Matthew Harper          | **Presentation Section:**<br>- Introduction to Docker and the concept of containerization in cloud computing.<br>**Hands-On Section:**<br>- Continue work on UniPath.io |
+| 🟢 Feb 15th   | [Week 5: Agile with Prof. Idith Tal-Kohen](./Week%205)   | [Prof. Idith Tal-Kohen](https://www.linkedin.com/in/idith), IBM Cloud, Project Manager          | **Presentation Section:**<br>- Agile methodologies and their application in project management and cloud computing projects.<br>**Hands-On Section:**<br>- Continue work on UniPath.io |
+| 🟢 Feb 22nd   | [Week 6: Intro to AWS Lambda](./Week%206)   | Andrew A.          | **Presentation Section:**<br>- Introduction to AWS Lambda and serverless computing, exploring how to build and deploy functions.<br>**Hands-On Section:**<br>- Continue work on UniPath.io |
+| 🟢 Feb 29th   | [Week 7: Intro to Infrastructure as Code](./Week%207)   | Andrew A.          | **Presentation Section:**<br>- Introduction to Infrastructure as Code, using tools like Terraform, to automate the setup and management of cloud infrastructure.<br>**Hands-On Section:**<br>- Work on UniPath.io |
 | 🔴 Mar 7th    | [Week 8: No Meeting - Holiday](./Week%208)  | N/A          | No meeting due to holiday. |
-| 🟡 Mar 14th   | [Week 9: Topic TBA](./Week%209)   | TBA          | **Presentation Section:**<br>- TBD<br>**Hands-On Section:**<br>- TBD |
-| 🟡 Mar 21st   | [Week 10: Topic TBA](./Week%2010) | TBA          | **Presentation Section:**<br>- TBD<br>**Hands-On Section:**<br>- TBD |
-| 🟡 Mar 28th   | [Week 11: Topic TBA](./Week%2011) | TBA          | **Presentation Section:**<br>- TBD<br>**Hands-On Section:**<br>- TBD |
-| 🟡 Apr 4th    | [Week 12: Topic TBA](./Week%2012) | TBA          | **Presentation Section:**<br>- TBD<br>**Hands-On Section:**<br>- TBD |
-| 🟡 Apr 11th   | [Week 13: Topic TBA](./Week%2013) | TBA          | **Presentation Section:**<br>- TBD<br>**Hands-On Section:**<br>- TBD |
-| 🟡 Apr 18th   | [Week 14: Topic TBA](./Week%2014) | TBA          | **Presentation Section:**<br>- TBD<br>**Hands-On Section:**<br>- TBD |
+| 🟡 Mar 14th   | [Week 9: Topic TBA](./Week%209)   | TBA          | **Presentation Section:**<br>- TBD<br>**Hands-On Section:**<br>- Work on UniPath.io |
+| 🟡 Mar 21st   | [Week 10: Topic TBA](./Week%2010) | TBA          | **Presentation Section:**<br>- TBD<br>**Hands-On Section:**<br>- Work on UniPath.io |
+| 🟡 Mar 28th   | [Week 11: Topic TBA](./Week%2011) | TBA          | **Presentation Section:**<br>- TBD<br>**Hands-On Section:**<br>- Work on UniPath.io |
+| 🟡 Apr 4th    | [Week 12: Topic TBA](./Week%2012) | TBA          | **Presentation Section:**<br>- TBD<br>**Hands-On Section:**<br>- Work on UniPath.io |
+| 🟡 Apr 11th   | [Week 13: Topic TBA](./Week%2013) | TBA          | **Presentation Section:**<br>- TBD<br>**Hands-On Section:**<br>- Work on UniPath.io |
+| 🟡 Apr 18th   | [Week 14: Topic TBA](./Week%2014) | TBA          | **Presentation Section:**<br>- TBD<br>**Hands-On Section:**<br>- Work on UniPath.io |
 | 🟢 Apr 25th   | [Week 15: Guest Speaker](./Week%2015) | [Brennan Macaig](https://www.linkedin.com/in/brennan-macaig), SRE          | **Presentation Section:**<br>- TBD<br>**Hands-On Section:**<br>- TBD |
+
 
 
 (Note: The schedule is tentative and expected to change. The topics and descriptions for subsequent meetings will be updated as we progress through the semester.)
