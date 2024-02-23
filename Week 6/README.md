@@ -57,4 +57,9 @@ The AWS Lambda free tier includes one million free requests per month and 400,00
 ---
 ### QA
 
+- https://docs.aws.amazon.com/lambda/latest/dg/lambda-concurrency.html
+- https://repost.aws/questions/QUKdeptBaRT5OKa-5ZCY3Bpg/how-long-does-a-lambda-instance-can-keep-warm
+- https://www.cncf.io/
+- https://aws.amazon.com/blogs/industries/manufacturing-analytics-in-regulated-industries-with-machinemetrics-on-aws/
+
 ---
